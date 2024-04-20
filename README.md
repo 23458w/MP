@@ -47,6 +47,51 @@ We adopted Scrum - an Agile project management and product development framework
 - FEED - Collection of user feedback (Ongoing)
 - UPD - Regular updates and feature additions (Planned)
 
+## Schedule
+
+A Sprint Cycle includes: Day 1: Sprint Planning, Days 1-25: Development, Days 25-26: Sprint Review, Day 27: Sprint Retrospective.
+
+- **February, 2024 (Sprint #1)** - Requirement analysis and initial system design.
+- **March, 2024 (Sprint #2)** - Development of core functionalities such as real-time parking data integration.
+- **April, 2024 (Sprint #3)** - Implementation of user interface and user experience enhancements.
+- **May, 2024 (Sprint #4)** - Integration of payment systems and security features.
+- **June, 2024 (Sprint #5)** - Testing and initial user feedback collection.
+- **July, 2024 (Sprint #6)** - Refinement based on feedback and preparation for beta release.
+- **August, 2024 (Sprint #7)** - Beta testing and bug fixes.
+- **September, 2024 (Sprint #8)** - Final preparations for launch.
+- **October, 2024 (Sprint #9)** - Official launch and monitoring.
+- **Q4 2024 (Sprint #10)** - Post-launch support and introduction of additional features.
+- **TBD (Sprint #11)** - Further expansions and scalability improvements.
+- **Q1 2025 (Sprint #12)** - Additional user engagement features and system optimizations.
+- **TBD (Sprint #13)** - Continued maintenance and updates based on user demand and technological advancements.
+
+## Algorithm
+
+### Requirement
+- **Data Collection**: Conducting surveys and interviews with potential users in Macao to gather specific parking needs and preferences.
+- **Requirement Documentation**: Documenting all collected data to define clear, actionable project requirements.
+
+### Design
+- **System Architecture**: Creating a scalable and robust architecture to support real-time parking data.
+- **UI/UX Design**: Designing an intuitive user interface and experience based on user feedback.
+- **Database Schema**: Developing a schema that supports quick data retrieval and secure transactions.
+
+### Implementation
+- **Code Development**: Writing clean, maintainable code for both frontend and backend functionalities.
+- **Version Control**: Using Git to manage code versions and collaborate effectively among different development phases.
+
+### Test / Validation
+- **Functionality Testing**: Rigorous testing to ensure all features work as intended before each release.
+- **User Testing**: Conducting beta tests with real users to gather feedback and make necessary adjustments.
+
+### Deployment
+- **Production Deployment**: Releasing the app on the App Store and ensuring all server components are live and functional.
+- **Process Review**: Evaluating and refining the deployment process to enhance future releases.
+
+### Maintenance
+- **Continuous Monitoring**: Regularly checking the system for any issues and gathering user feedback for improvements.
+- **Updates and Patches**: Implementing updates and patches to fix bugs and introduce new features based on user demand.
+
 ## Current Status
 
 - The app has successfully completed initial development and is now in the beta testing phase.

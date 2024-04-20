@@ -64,7 +64,7 @@ We adopted Scrum - an Agile project management and product development framework
 ## Environments
 
 - **Programming Language**: Swift 5
-- **Required Tools**: Xcode 12
+- **Required Tools**: Swift Playground
 - **Operating System**:
   - iOS 17.4.1 or newer
 

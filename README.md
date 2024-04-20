@@ -59,14 +59,14 @@ We adopted Scrum - an Agile project management and product development framework
 
 ## Demo
 
-[Watch a demo of MPark](URL-to-demo-video)
+
 
 ## Environments
 
 - **Programming Language**: Swift 5
 - **Required Tools**: Xcode 12
 - **Operating System**:
-  - iOS 13 or newer
+  - iOS 17.4.1 or newer
 
 ## Declaration
 
